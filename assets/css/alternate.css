@@ -4497,6 +4497,12 @@ body.is-preload #look-banner:after {
 	color: #00897b;
 }
 
+@media screen and (max-width: 980px) {
+	.row.gtr-25.gtr-uniform div {
+		width: 100%;
+	}
+}
+
 
 /* Footer */
 

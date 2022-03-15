@@ -1502,6 +1502,7 @@ input, select, textarea {
 
 		}
 
+
 		@media screen and (max-width: 480px) {
 
 			.row {
@@ -3899,6 +3900,13 @@ input, select, textarea {
 	.covidWarn {
 		font-style: italic;
 		color: salmon;
+	}
+
+	@media screen and (max-width: 865px) {
+		.features section {
+			max-width: fit-content;
+			width: 100%;
+		}
 	}
 
 /* Footer */
