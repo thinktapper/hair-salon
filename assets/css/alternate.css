@@ -4503,6 +4503,12 @@ body.is-preload #look-banner:after {
 	}
 }
 
+@media screen and (max-width: 480px) {
+	.box.alt {
+		padding: 0;
+	}
+}
+
 
 /* Footer */
 
